@@ -1,0 +1,67 @@
+[window]
+
+opacity = 0.8
+
+padding.x = 8
+padding.y = 8
+
+decorations = "Full"
+decorations_theme_variant = "Dark" # "Dark"
+
+[window.dimensions]
+
+columns = 60
+lines = 20
+
+[font]
+
+normal.family = "Cascadia Mono NF"
+bold.family = "Cascadia Mono NF"
+italic.family = "Cascadia Mono NF"
+bold_italic.family = "Cascadia Mono NF"
+
+size = 14.0
+
+#
+
+[colors.primary]
+background = '#2E3440'
+foreground = '#D8DEE9'
+
+# Normal colors
+[colors.normal]
+black   = '#3B4252'
+red     = '#BF616A'
+green   = '#A3BE8C'
+yellow  = '#EBCB8B'
+blue    = '#81A1C1'
+magenta = '#B48EAD'
+cyan    = '#88C0D0'
+white   = '#E5E9F0'
+
+# Bright colors
+[colors.bright]
+black   = '#4C566A'
+red     = '#BF616A'
+green   = '#A3BE8C'
+yellow  = '#EBCB8B'
+blue    = '#81A1C1'
+magenta = '#B48EAD'
+cyan    = '#8FBCBB'
+white   = '#ECEFF4'
+
+#
+
+[keyboard]
+bindings = [
+{ key = "C", mods = "Control", action = "Copy" },
+{ key = "V", mods = "Control", action = "Paste" },
+]
+
+#
+
+[cursor]
+blink_interval = 500
+[cursor.style]
+shape = "Block"
+blinking = "Always"
