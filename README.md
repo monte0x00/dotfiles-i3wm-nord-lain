@@ -69,6 +69,7 @@
 | -----                                |
 | Cascadia Code                        |
 | Symbols Nerd Font                    |
+
 https://github.com/microsoft/cascadia-code
 
 
