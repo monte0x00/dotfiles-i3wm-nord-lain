@@ -23,17 +23,31 @@
 - Clone the repo
 
   ```
-  git clone https://github.com/monte0x00/dotfiles-i3wm-nord-lain.git
+  git clone https://github.com/monte0x00/dotfiles-i3wm.git
   ```
 
 - Open the file and copy the configurations folders to **~/.config** folder
 
   ```
-  cd dotfiles-i3wm-nord-lain
+  cd dotfiles-i3wm
   ```
 
   ```
   sudo cp -r alacritty i3 polybar rofi ~/.config
+  ```
+
+- Install Fonts
+
+  ```
+  cd dotfiles-i3wm
+  ```
+
+  ```
+  cd fonts
+  ```
+
+  ```
+  sudo cp -r CascadiaCode.ttf CascadiaCode.woff2 CascadiaCodeNF-Regular.oft CascadiaCodeNF-Regular.ttf CascadiaCodeNF-Regular.woff2 SymbolsNerdFontMono-Regular.ttf SymbolsNerdFont-Regular.ttf /usr/share/fonts
   ```
 
 - Install Lain Wallpaper (we may have to create a backgrounds folder)
