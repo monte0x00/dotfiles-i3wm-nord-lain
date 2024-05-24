@@ -84,9 +84,9 @@
 | Cascadia Code                        |
 | Symbols Nerd Font                    |
 
-https://github.com/microsoft/cascadia-code
-https://www.mediafire.com/file/oho6hw6asmn3vwz/SymbolsNerdFont-Regular.ttf/file
-https://www.mediafire.com/file/dcmhg8lac1fxdzr/SymbolsNerdFontMono-Regular.ttf/file
+<p>https://github.com/microsoft/cascadia-code</p>
+<p>https://www.mediafire.com/file/oho6hw6asmn3vwz/SymbolsNerdFont-Regular.ttf/file</p>
+<p>https://www.mediafire.com/file/dcmhg8lac1fxdzr/SymbolsNerdFontMono-Regular.ttf/file</p>
 
 <a name="shortcuts"></a>
 <h2>Shortcuts</h2>
