@@ -137,7 +137,8 @@ exec --no-startup-id polybar
 #bordes para las ventanas
 gaps inner 20
 gaps outer 0
-
+smart_gaps on
+smart_borders on
 
 #focus de las ventanas
 client.focused #444444 #8a96d2 #444444 #8a96d2
